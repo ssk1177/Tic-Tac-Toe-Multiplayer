@@ -41,8 +41,6 @@ There are no in-app purchases in our application.
 # Push notifications 
 There are no push notifications in our application.
 
-No Internet connection required Application do not require an internet connection to work.
-
 # Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
